@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @alexei0kazachina
 - 👀 I’m interested in
-- 🌱 I’m currently learning С / R / Python / HTML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning С / Haskell
+- 💞️ I’m looking to collaborate on IoT / Embedded Systems in Agriculture and Food Analysis
+
 - 📫 How to reach me https://vk.com/alexei_kazachina
 - 🌱 How to donate me https://yoomoney.ru/to/4100117347923123
 <!---
